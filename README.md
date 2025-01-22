@@ -39,7 +39,7 @@ Working in a team of six was complex but very satisfying. As the Agile facilitat
 ```
 2. Navigate to project directory:
 ```bash
-cd dotmap
+cd myCelium
 ```
 
 3. Install dependencies:
